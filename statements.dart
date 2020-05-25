@@ -4,7 +4,7 @@ main(){
     if (a == true) {
         print("a is true");
     } else if (a == false) {
-        print ("a is false");
+        print("a is false");
     } else {
         print("a is not a boolean");
     }
