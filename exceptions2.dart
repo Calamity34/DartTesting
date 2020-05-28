@@ -5,6 +5,7 @@ main() {
    
    try {  
       res = x ~/ y; 
+      print(res);
    }  
    catch(e) { 
       print("$e, dipshit"); 
