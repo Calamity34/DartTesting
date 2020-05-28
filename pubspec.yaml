@@ -3,5 +3,4 @@ version: 0.1.0
 description: Buncha stupid things that i learned
 dependencies:
     # foo_bar: '>=1.0.0 < 2.0.0'
-    # https://mail.google.com/mail/u/0/images/cleardot.gif
     xml:
